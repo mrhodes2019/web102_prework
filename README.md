@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Fundraiser Overview*
 
 Submitted by: **MARCUS RHODES**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Fundraiser Overview** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **IDK? ALOT?** hours spent in total
 
@@ -25,10 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/lab-0-pre-work-assignment-M349ECl' title='Lab 0 - Pre-Work Assignment' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGIF
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
