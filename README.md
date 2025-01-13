@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/lab-0-pre-work-assignment-M349ECl' title='Lab 0 - Pre-Work Assignment' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/lab-0-pre-work-assignment-wFZN7IP' title='Lab 0 - Pre-Work Assignment' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF
